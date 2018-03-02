@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Tue Feb 13 20:34:30 CST 2018:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.10.2.0 - (1582446): instance a816c00e-0161-8f28-c6fe-00000099ded8 
+on database directory E:\eclipse工作空间\MapModule\db_map with class loader sun.misc.Launcher$AppClassLoader@1d16e93 
+Loaded from file:/E:/eclipse%e5%b7%a5%e4%bd%9c%e7%a9%ba%e9%97%b4/MapModule/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_151-b12
+user.dir=E:\eclipse工作空间\MapModule
+os.name=Windows 10
+os.arch=x86
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
